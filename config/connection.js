@@ -1,5 +1,5 @@
 require('dotenv').config();
-import mysql from 'mysql2'
+const mysql = require('mysql2');
 const Sequelize = require('sequelize');
 
 const sequelize = process.env.JAWSDB_URL

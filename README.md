@@ -1,6 +1,6 @@
 [apache]
 # E-commerce Back End 
-https://github.com/joceamayar 
+https://github.com/joceamayar/E-commerce
 
 ## Project Description
 This project offers experience in both backend API development with Express.js and database management with MySQL, giving a comprehensive view of full-stack development. In addition to this, it introduces Sequelize for Object-Relational Mapping, which simplifies database interactions, along with implementing CRUD operations. The project also teaches environment management through the use of .env files, enabling secure handling of sensitive information like database credentials.
@@ -20,6 +20,9 @@ To set up this project, you'll need to install Node.js and MySQL, and Insomnia f
 ## Usage
 
 This app is designed for educational purposes, teaching full-stack development skills. It covers backend API creation and database management. Practically, it can be adapted for use in e-commerce or inventory management systems.
+
+
+[E-commerce.webm](https://github.com/joceamayar/E-commerce/assets/136951180/d32fee2c-7781-4b4d-b246-187740a01979)
 
 
 ## License
